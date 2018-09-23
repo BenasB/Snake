@@ -1,5 +1,5 @@
 # Snake
-A classic snake game made in SFML.
+A classic snake game made in SFML. WASD/Arrows to move.
 
 ![GIF](https://i.imgur.com/MTDxUdL.gif)
 
